@@ -1,0 +1,17 @@
+>sequenceID-001 description
+SERGIOLOPEZORTIZ
+
+>sequenceID-002 description
+JUANPEREZMONTE
+
+>sequenceID-003 description
+CERRATOAVERASTINO
+
+>sequenceID-001 description
+RUTHJAZMINLOPEZ
+
+>sequenceID-002 description
+ROSAGUADALUPEORTIZ
+
+>sequenceID-003 description
+LUIZSACRAMENTO
